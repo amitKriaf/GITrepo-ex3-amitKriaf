@@ -3,7 +3,7 @@ public class amitKriaf{
     {
         for(int i=1;i<=10;i++)
         {
-            System.out.println("Amit Kriaf");
+            System.out.println("Amit Kriaf after changes");
         }
     }
 }
